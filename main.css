@@ -45,16 +45,14 @@ body {
   line-height: 0.2;
   display: flex;
   max-width: 100px;
-
 }
 .service-image img {
-   max-width: 100%;
+  max-width: 100%;
   width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
   border-radius: 10px;
- 
 }
 .motto {
   text-align: center;
