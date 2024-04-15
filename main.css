@@ -6,6 +6,7 @@ header li {
   line-height: 0.2;
   background-color: aquamarine;
   padding: 0 10px;
+  border-radius: 4px;
 }
 h1 {
   font-size: 34px;
@@ -43,13 +44,18 @@ body {
   justify-content: center;
   line-height: 0.2;
   display: flex;
-  max-width: 200px;
+  max-width: 100px;
+
 }
 .service-image img {
-  max-width: 100%;
+   max-width: 100%;
   width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
   border-radius: 10px;
+ 
+}
+.motto {
+  text-align: center;
 }
